@@ -5,8 +5,8 @@ This repository is for practicing the GitHub Flow.
 
 #algorithm
 
-while (1){
-  printf("Hello world");
+while (1){. 
+  printf("Hello world");  
 }
 
 #END
