@@ -1,13 +1,35 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
 
-## this is a hello world application
+## This is an &infin; hello world program in C
 
-#algorithm
+### Code
 
-while (1){
+<!-- This a hello world code in C  -->
 
-  printf("Hello world");  
-}
+```c  
 
-#END
+//use file name hello-world.c in your current working directory to save the code
+
+#include <stdio.h>
+
+int main(){  
+  while (1){  
+    printf("Hello world\n");  
+  }
+  return 0;  
+} 
+```
+
+### How to compile in Linux using command line
+```console
+$cc hello-world.c
+```
+### How to execute in Linux using command line
+```console
+$.\hello-world
+```
+
+
+
+
